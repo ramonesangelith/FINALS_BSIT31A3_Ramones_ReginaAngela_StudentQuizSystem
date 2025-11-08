@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\StudentQuizSystem.Services.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\StudentQuizSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\StudentQuizSystem.Services.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\StudentQuizSystem.Services.AssemblyInfo.cs
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\StudentQuizSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\StudentQuizSystem.Services\bin\Debug\net9.0\StudentQuizSystem.Services.deps.json
+C:\Users\angel\source\repos\StudentQuizSystem.Services\bin\Debug\net9.0\StudentQuizSystem.Services.dll
+C:\Users\angel\source\repos\StudentQuizSystem.Services\bin\Debug\net9.0\StudentQuizSystem.Services.pdb
+C:\Users\angel\source\repos\StudentQuizSystem.Services\bin\Debug\net9.0\StudentQuizSystem.Data.dll
+C:\Users\angel\source\repos\StudentQuizSystem.Services\bin\Debug\net9.0\StudentQuizSystem.Data.pdb
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\StudentQ.6BA8B9DD.Up2Date
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\StudentQuizSystem.Services.dll
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\refint\StudentQuizSystem.Services.dll
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\StudentQuizSystem.Services.pdb
+C:\Users\angel\source\repos\StudentQuizSystem.Services\obj\Debug\net9.0\ref\StudentQuizSystem.Services.dll

@@ -1,0 +1,11 @@
+﻿@model StudentQuizSystem.Services.DTOs.Quiz.QuizResultViewModel
+@{
+    ViewData["Title"] = "Quiz Result";
+}
+
+<div class="text-center">
+    <h2>Result for @Model.QuizTitle</h2>
+    <h1 class="display-3">You Scored: @Model.Score / @Model.TotalQuestions</h1>
+    <a asp-controller="Home" asp-action="Leaderboard" class="btn btn-primary">View Leaderboard</a>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Back to Quizzes</a>
+</div>
